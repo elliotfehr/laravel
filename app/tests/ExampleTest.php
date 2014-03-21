@@ -1,4 +1,4 @@
-<?php
+<?hh
 
 class ExampleTest extends TestCase {
 
